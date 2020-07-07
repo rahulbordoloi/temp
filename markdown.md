@@ -43,3 +43,6 @@ https://img.shields.io/github/repo-size/rahulbordoloi/pypi-publish
 ```
 https://img.shields.io/github/last-commit/rahulbordoloi/pypi-publish?style=flat-square
 ```
+
+![Python](badges/python.png?s=5)
+![C++](badges/10-days-of-statistics.png?s=5)
